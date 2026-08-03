@@ -1,0 +1,46 @@
+{
+  "comics": [
+    {
+      "id": "ombre-du-baobab",
+      "title": "L'Ombre du Baobab",
+      "category": "Aventure",
+      "tags": ["Afrofuturisme", "Aventure"],
+      "featured": true,
+      "status": "ongoing",
+      "publish_date": "2026-05-01",
+      "thumbnail": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/assets/ombre-du-baobab/cover.jpg",
+      "banner": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/assets/ombre-du-baobab/banner.jpg",
+      "description": "Dans un Bénin réinventé, une jeune tisseuse découvre que les motifs de ses pagnes ouvrent des portes vers un autre monde.",
+      "sponsor": null,
+      "tomes": [
+        {
+          "number": 1,
+          "title": "Tome 1 — Le Fil Rouge",
+          "access": "free",
+          "pdf_url": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/pdf/ombre-du-baobab/tome-1.pdf"
+        },
+        {
+          "number": 2,
+          "title": "Tome 2 — La Porte de Kétou",
+          "access": "free",
+          "pdf_url": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/pdf/ombre-du-baobab/tome-2.pdf"
+        },
+        {
+          "number": 3,
+          "title": "Tome 3 — Les Veilleurs",
+          "access": "purchase",
+          "price": 6.99,
+          "purchase_url": "https://votre-boutique.gumroad.com/l/ombre-du-baobab-tome-3",
+          "pdf_url": ""
+        }
+      ]
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Café Racine",
+      "logo": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/assets/sponsors/cafe-racine.png",
+      "url": "https://exemple.com"
+    }
+  ]
+}
