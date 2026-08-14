@@ -1,46 +1,111 @@
 {
   "comics": [
     {
-      "id": "ombre-du-baobab",
-      "title": "L'Ombre du Baobab",
-      "category": "Aventure",
-      "tags": ["Afrofuturisme", "Aventure"],
-      "featured": true,
-      "status": "ongoing",
-      "publish_date": "2026-05-01",
-      "thumbnail": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/assets/ombre-du-baobab/cover.jpg",
-      "banner": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/assets/ombre-du-baobab/banner.jpg",
-      "description": "Dans un Bénin réinventé, une jeune tisseuse découvre que les motifs de ses pagnes ouvrent des portes vers un autre monde.",
+      "id": "derniere-croisiere",
+      "title": "Dernière Croisière",
+      "category": "Drame",
+      "tags": [
+        "Thriller familial",
+        "Huis clos",
+        "Romance",
+        "Feuilleton"
+      ],
+      "featured": false,
+      "status": "ongoing (le Tome 1 se termine sur un cliffhanger, suite prévue)",
+      "publish_date": "2026-08-14",
+      "thumbnail": "",
+      "banner": "",
+      "description": "Pour le 70e anniversaire de son père Victor, toute la famille embarque sur son yacht privé pour une semaine de croisière — mais le huis clos en mer fait remonter dettes cachées, trahisons et un lourd secret sur la nouvelle fiancée du patriarche.",
       "sponsor": null,
       "tomes": [
         {
           "number": 1,
-          "title": "Tome 1 — Le Fil Rouge",
-          "access": "free",
-          "pdf_url": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/pdf/ombre-du-baobab/tome-1.pdf"
+          "title": "Tome 1",
+          "access": "gratuit",
+          "pdf_url": "/pdf/derniere-croisiere/tome-1.pdf",
+          "purchase_url": "/assets/derniere-croisiere/thumbnail.jpg"
+        }
+      ]
+    },
+    {
+      "id": "meilleure-amie-pire-ennemie",
+      "title": "Meilleure Amie, Pire Ennemie",
+      "category": "Drame",
+      "tags": [
+        "Trahison",
+        "Amitié",
+        "Vengeance",
+        "Feuilleton"
+      ],
+      "featured": false,
+      "status": "ongoing",
+      "publish_date": "2026-08-14",
+      "thumbnail": "",
+      "banner": "",
+      "description": "Léa découvre la trahison de sa meilleure amie Chloé — le Tome 2, « La Chute », s'ouvre sur la confrontation, puis la rupture, avant un rebondissement public qui relance toute l'histoire.",
+      "sponsor": null,
+      "tomes": [
+        {
+          "number": 1,
+          "title": "Tome 1: Les Fissures",
+          "access": "gratuit",
+          "pdf_url": "/pdf/derniere-croisiere/tome-1.pdf",
+          "purchase_url": "/assets/derniere-croisiere/thumbnail.jpg"
         },
         {
           "number": 2,
-          "title": "Tome 2 — La Porte de Kétou",
-          "access": "free",
-          "pdf_url": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/pdf/ombre-du-baobab/tome-2.pdf"
-        },
-        {
-          "number": 3,
-          "title": "Tome 3 — Les Veilleurs",
-          "access": "purchase",
-          "price": 6.99,
-          "purchase_url": "https://votre-boutique.gumroad.com/l/ombre-du-baobab-tome-3",
-          "pdf_url": ""
+          "title": "Tome 2 : La Chute",
+          "access": "payant",
+          "price": 575,
+          "pdf_url": "/pdf/derniere-croisiere/tome-1.pdf",
+          "purchase_url": "/assets/derniere-croisiere/thumbnail.jpg"
         }
       ]
-    }
-  ],
-  "sponsors": [
+    },
     {
-      "name": "Café Racine",
-      "logo": "https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_DEPOT/main/assets/sponsors/cafe-racine.png",
-      "url": "https://exemple.com"
+      "id": "sugar-life",
+      "title": "Sugar Life",
+      "category": "Romance",
+      "tags": [
+        "Drame",
+        "New Adult",
+        "Rédemption"
+      ],
+      "featured": false,
+      "status": "completed (récit autonome en 50 pages, pas de suite)",
+      "publish_date": "2026-08-14",
+      "thumbnail": "",
+      "banner": "",
+      "description": "Camille, étudiante à bout financièrement, accepte un arrangement avec Thibault, un homme d'affaires plus âgé, pour payer les soins de sa mère — jusqu'à ce que le mensonge éclate au grand jour et qu'elle doive tout reconstruire.",
+      "sponsor": null,
+      "tomes": [
+        {
+          "number": 1,
+          "title": "Oeuvre Unique",
+          "access": "gratuit",
+          "pdf_url": "/pdf/derniere-croisiere/tome-1.pdf",
+          "purchase_url": "/assets/derniere-croisiere/thumbnail.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kalao",
+      "title": "Kalao",
+      "category": "Drame",
+      "tags": [
+        "Amitié",
+        "Vacances",
+        "Choral",
+        "Young Adult"
+      ],
+      "featured": false,
+      "status": "completed (récit autonome en 60 pages)",
+      "publish_date": "2026-08-14",
+      "thumbnail": "",
+      "banner": "",
+      "description": "Sept amis partent une semaine sur une île tropicale pour des vacances qui devaient être parfaites — une nuit de fête qui dérape fait éclater flirts, jalousies et secrets d'argent, avant que le groupe ne se reconstruise, plus honnête.",
+      "sponsor": null,
+      "tomes": []
     }
   ]
 }
